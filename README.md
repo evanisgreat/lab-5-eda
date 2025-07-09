@@ -1,7 +1,9 @@
 # Lab 5 BU RISE Data Science Practicum
 
 Author: Evan Yip
+
 File type: Jupyter Notebook
+
 Contents: students.csv and eda.ipynb
 
 Objective:
